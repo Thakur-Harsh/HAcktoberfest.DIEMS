@@ -1,2 +1,2 @@
 # HAcktoberfest.DIEMS
-HEy everyone, I am Soumili
+HEy everyone, I am Soumili. hey contributing 
