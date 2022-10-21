@@ -1,2 +1,1 @@
 # HAcktoberfest.DIEMS
-Happy Diwali
